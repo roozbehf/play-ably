@@ -1,0 +1,14 @@
+{
+  "name": "play-ably",
+  "version": "1.0.0",
+  "description": "A super simple pub/sub client code to play with ably.com",
+  "main": "play-ably.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roozbeh Farahbod",
+  "license": "MIT",
+  "dependencies": {
+    "ably": "^1.2.29"
+  }
+}
